@@ -21,3 +21,6 @@ node_modules
 .env.development.local
 .env.test.local
 .env.production.local
+
+# media file for readme.md
+/_media

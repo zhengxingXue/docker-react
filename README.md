@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Deployment Pipline
+
+[<img src="./_media/flow.png">](www.udemy.com/course/docker-and-kubernetes-the-complete-guide)
+
+### Development Environment
+
+[<img src="./_media/dev.png">](./docker-compose-dev.yml)
+
+### Production Environment
+
+[<img src="./_media/prod.png">](./docker-compose.yml)
+
+[<img src="./_media/nginx.png">](./Dockerfile)
+
 ## Available Scripts
 
 In the project directory, you can run:
